@@ -4,7 +4,7 @@
 
 This project is an enhanced iteration of the [React Headless UI components](https://github.com/Kedon/react-headless-ui) project, which originally implemented the approach of separating UI (HTML) from logic.
 
-Unlike the first version, this one incorporates a complete CRUD (Create, Read, Update, Delete) operation with a clear separation of UI from logic. Additionally, Version 2 utilizes context to facilitate data and action sharing among the components of the 'Product Page'.
+Unlike the first version, this one incorporates a complete CRUD (Create, Read, Update, Delete) operation with a clear separation of UI from logic. Additionally, Version 2 utilizes context to facilitate data and action sharing among the components of the `Product Page`.
 
 ## Available Scripts
 
